@@ -47,7 +47,7 @@ public class DiezNumeros {
             }
 
         }
-
+        //Imprimimos por pantalla el número de empleados que ganan mas de 1000€ y la suma de sus sueldos
         System.out.println("Hay " + contador + " personas que ganan mas de 1000 y  la suma de todos los sueldos son " + sumaSueldos);
 
     }
