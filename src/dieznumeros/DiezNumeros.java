@@ -29,6 +29,8 @@ public class DiezNumeros {
         int sumaSueldos = 0;
 
         int contador = 0;
+        
+        
 
         for (int i = 0; i < 10; i++) {
 
@@ -48,7 +50,7 @@ public class DiezNumeros {
 
         }
         //Imprimimos por pantalla el número de empleados que ganan mas de 1000€ y la suma de sus sueldos
-        System.out.println("Hay " + contador + " personas que ganan mas de 1000 y  la suma de todos los sueldos son " + sumaSueldos);
+        System.out.println("Hay " + contador + " empleados que ganan mas de 1000€ y  la suma de todos los sueldos son " + sumaSueldos + " euros.");
 
     }
 
